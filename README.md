@@ -4,7 +4,7 @@ This is a web application built with React.js that allows users to browse a coll
 
 ## Live Demo
 
-You can view a live demo of the application [here](https://booksAssignmentDemo.netlify.app).
+You can view a live demo of the application [here](https://booksassignment.netlify.app/).
 
 ## Features
 
